@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/AleisterFox/result-summary-component)
-- Live Site URL: [Component](https://your-live-site-url.com)
+- Live Site URL: [Component](https://aleisterfox.github.io/result-summary-component/)
 
 ## My process
 
