@@ -68,7 +68,7 @@ html {
     border-radius: 50%;
     background: linear-gradient(var(--violet-blue), var(--persian-blue));
     width: 45%;
-    aspect-ratio: 1/1;
+    height: 45%;
     justify-content: center;
 }
 
@@ -234,6 +234,7 @@ button:active {
     }
     .card__score--points {
         width: 70%;
+        height: 38%;
     }
     .card__score--description {
         width: 90%;
